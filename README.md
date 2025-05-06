@@ -12,4 +12,4 @@
 
 ### Unsere Grafik: 
 
-<img src="Figure_1.png" height="200" width="200" alt="Bild kann nicht geladen werden." border="3" align="center">
+<img src="Figure_1.png" height="200" width="300" alt="Bild kann nicht geladen werden." border="3" align="center">
